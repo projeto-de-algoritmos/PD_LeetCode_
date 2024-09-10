@@ -10,7 +10,7 @@
 | 19/0094320  |  Pedro Augusto Santos Siqueira |
 
 ## Sobre 
-Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, a dupla selecionou 4 exercícios em um juiz online - o LeetCode -, sendo eles, 3 de nível difícil e 1 de nível médio.
+Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, a dupla selecionou 4 exercícios em um juiz online - o LeetCode -, sendo eles, 2 de nível difícil e 2 de nível médio.
 
 ## Screenshots
 
