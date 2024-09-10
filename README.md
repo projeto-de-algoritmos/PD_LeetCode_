@@ -1,45 +1,43 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Lista de Exercícios do LeetCode
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0091444  |  Luana de Lima Medeiros |
+| 19/0094320  |  Pedro Augusto Santos Siqueira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, a dupla selecionou 4 exercícios em um juiz online - o LeetCode -, sendo eles, 3 de nível difícil e 1 de nível médio.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+- [Número (Dificuldade) - Nome](link)
+<img width="734" alt="Swim in Rising Water" src="">
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
+**Pré-requisitos**: Compilador g++ (contido no GCC)<br>
+
+## 1. Clone o repositório 
+
+```bash
+git clone https://github.com/projeto-de-algoritmos/grafos2_LeetCode_.git
+```
+
+### 2. Compile o programa
+
+```bash
+g++ nome_do_arquivo.cpp -o nome_do_executável -Wall 
+./nome_do_executável
+```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para aplicar os casos de teste (in e out), basta acessar o link referente ao exercício no LeetCode e inserí-los no prompt de comando, também é possível gerar novos casos de teste, desde que cumpram os requisitos do exercício em questão.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Apresentação 
 
-
-
+A apresentação da entrega pode ser visualizada [aqui](link).
 
