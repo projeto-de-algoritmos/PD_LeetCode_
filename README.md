@@ -20,6 +20,12 @@ Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, a d
 - [10 (Difícil) - Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming)
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/PD_LeetCode_/blob/master/img/LeetCode10.jpg">
 
+- [45 (Médio) - Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)
+<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/PD_LeetCode_/blob/master/img/45.JumpGameII.jpeg">
+
+- [85 (Difícil) - Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/)
+<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/PD_LeetCode_/blob/master/img/85.MaximalRectangle.jpeg">
+
 ## Instalação 
 **Linguagem**: C++<br>
 **Pré-requisitos**: Compilador g++ (contido no GCC)<br>
