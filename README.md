@@ -17,6 +17,9 @@ Para desenvolver o conteúdo abordado no tópico de Programação Dinâmica, a d
 - [91 (Médio) - Decode Ways](https://leetcode.com/problems/decode-ways/submissions/1384852135/?envType=problem-list-v2&envId=dynamic-programming)
 <img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/PD_LeetCode_/blob/master/img/LeetCode91.jpg">
 
+- [10 (Difícil) - Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=dynamic-programming)
+<img width="734" alt="Swim in Rising Water" src="https://github.com/projeto-de-algoritmos/PD_LeetCode_/blob/master/img/LeetCode10.jpg">
+
 ## Instalação 
 **Linguagem**: C++<br>
 **Pré-requisitos**: Compilador g++ (contido no GCC)<br>
