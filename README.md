@@ -48,5 +48,5 @@ Para aplicar os casos de teste (in e out), basta acessar o link referente ao exe
 
 ## Apresentação 
 
-A apresentação da entrega pode ser visualizada [aqui](link).
+A apresentação da entrega pode ser visualizada [aqui](https://www.youtube.com/watch?v=4-9CBkDZX7k).
 
